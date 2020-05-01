@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+我看看能不能显示中文。:)
+
 Use the left arrow to go back!
